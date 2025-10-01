@@ -1,4 +1,4 @@
-id: github-mcp-remote
+id: github-mcp-remote-2
 runtime: docker
 base: .
 entry: Dockerfile
